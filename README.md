@@ -14,9 +14,11 @@
 
 ![image](https://user-images.githubusercontent.com/32308521/45068588-20ff8600-b096-11e8-944d-e3c4fdae12f7.png)
 
-
+**Quiz Admin Panel**
 
 ![image](https://user-images.githubusercontent.com/32308521/45068591-2361e000-b096-11e8-8d95-9c840eb71970.png)
+
+**User Signup Flow**
 
 ![image](https://user-images.githubusercontent.com/32308521/45068577-16dd8780-b096-11e8-99b4-bb8c784ededa.png)
 ![image](https://user-images.githubusercontent.com/32308521/45068578-193fe180-b096-11e8-9ac2-7eb97b10be75.png)
