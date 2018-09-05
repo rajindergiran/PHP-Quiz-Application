@@ -1,0 +1,44 @@
+img#slider.img-rounded.img-responsive {
+  margin:auto;
+}
+
+.carousel-inner {
+  position:relative;
+  width:100%;
+  overflow:hidden;
+  /*height:100%;*/
+}
+
+a#button.btn.btn-primary.btn-lg {
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  padding:10px 16px;
+  font-size:18px;
+  line-height:1.3333333;
+  border-radius:6px;
+}
+
+.btn-group-lg > .btn, .btn-lg {
+  padding:10px 16px;
+  font-size:18px;
+  line-height:1.3333333;
+  border-radius:6px;
+  width:250px;
+}
+
+.modal {
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:1050;
+  display:none;
+  overflow:hidden;
+  -webkit-overflow-scrolling:touch;
+  outline:0;
+  width:50;
+  margin:auto;
+}
+
